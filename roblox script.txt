@@ -1,5 +1,5 @@
 require(5466852956).eliza("freesprite1K") 
 require(4581876090). Lmao("freesprite1K")
 require(5044812555).okboomer("freesprite1K")
-require(11458874302)("Tfreesprite1K")
+require(11458874302)("freesprite1K")
 require(9733891287).k00pskidd("freesprite1K")

@@ -1,6 +1,6 @@
 👋 Hi, I’m @maydoxx1 
 👀 I’m interested in playing Roblox/Castle/GMOD and porting UEFI to different phones. 
-🌱 I’m currently learning Python (in school) and experimenting with Termux, Ubuntu, and Gentoo. 
+🌱 I’m currently learning ACPI and converting the Linux drivers to Windows drivers and experimenting with Termux, Ubuntu, and Gentoo. 
 💞️ I enjoy tech discussions, especially about Linux, custom ROMs, and low-level system tinkering. 
 📫 How to reach me: Discord - maydoxx1 
 😄 Pronouns: He/Him 
